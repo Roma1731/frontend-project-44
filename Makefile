@@ -3,4 +3,4 @@ install:
 publish: 
     npm publish --dry-run
 brain-games:
-	node bin/brain-games.js M	
+	node bin/brain-games.js 
