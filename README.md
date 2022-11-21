@@ -3,3 +3,5 @@
 
 
 <a href="https://codeclimate.com/github/Roma1731/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/de2a1a172810b654ad95/maintainability" /></a>
+
+https://asciinema.org/a/DVsbMwpBlWPhuTsKm0dra0Z1N
