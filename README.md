@@ -12,3 +12,6 @@ https://asciinema.org/a/zPyhjvlV34E8wkUDazYXV58Bx
 
 НОД
 https://asciinema.org/a/BEsxDnfWBAYCe3I4s5bIQ5o8i
+
+Арифметическая прогрессия
+https://asciinema.org/a/yCmDg4NQTzQOIJoFt9GZBSMCw

@@ -4,14 +4,14 @@ const ROUNDS_COUNT = 3;
 
 export default (DESCRIPTION, getData) => {
   console.log('Welcome to the Brain Games!');
-  const name = readlineSync.question('May I have your name? ');
-  console.log(`Hello, ${name}!`);
+  const userName = readlineSync.question('May I have your name? ');
+  console.log(`Hello, ${userName}!`);
 
   console.log(DESCRIPTION);
 
   const iter = (round) => {
     if (round === 0) {
-      console.log(`Congratulations, ${name}!`);
+      console.log(`Congratulations, ${userName}!`);
       return;
     }
 
@@ -21,7 +21,7 @@ export default (DESCRIPTION, getData) => {
 
     if (correctAnswer !== userAnswer) {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
-      console.log(`Let's try again, ${name}!`);
+      console.log(`Let's try again, ${userName}!`);
       return;
     }
 
