@@ -13,7 +13,9 @@ const calc = (operand1, operand2, result) => {
       return operand1 - operand2;
     case '*':
       return operand1 * operand2;
+    default:
   }
+  return null;
 };
 
 const getData = () => {
