@@ -15,3 +15,6 @@ https://asciinema.org/a/BEsxDnfWBAYCe3I4s5bIQ5o8i
 
 Арифметическая прогрессия
 https://asciinema.org/a/yCmDg4NQTzQOIJoFt9GZBSMCw
+
+Простое ли число?
+https://asciinema.org/a/JeI6S6rv0FYFLpndlQY8iTZJf
